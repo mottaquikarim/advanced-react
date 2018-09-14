@@ -3,9 +3,9 @@ In this section, we will be examining **Design Patterns** and more particularly,
 
 ## Contents
 
-## [What is a Design Pattern?](https://github.com/mottaquikarim/c4q-content-staging/tree/master/DesignPatterns/WhatIsADesignPattern)
-## [Common, *NON-React* patterns](https://github.com/mottaquikarim/c4q-content-staging/tree/master/DesignPatterns/CommonNONReactPatterns)
-## [Useful React patterns](https://github.com/mottaquikarim/c4q-content-staging/tree/master/DesignPatterns/UsefulReactPatterns)
+## [What is a Design Pattern?](https://github.com/mottaquikarim/advanced-react/tree/master/DesignPatterns/WhatIsADesignPattern)
+## [Common, *NON-React* patterns](https://github.com/mottaquikarim/advanced-react/tree/master/DesignPatterns/CommonNONReactPatterns)
+## [Useful React patterns](https://github.com/mottaquikarim/advanced-react/tree/master/DesignPatterns/UsefulReactPatterns)
 
 ## Notes / Futher Reading
 

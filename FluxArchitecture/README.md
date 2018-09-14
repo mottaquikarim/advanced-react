@@ -15,7 +15,7 @@ You might be thinking: wait - isn't that super inefficient?? The answer is...*ma
 
 Here's a good image that illustrates this:
 
-![img](https://github.com/mottaquikarim/c4q-content-staging/blob/master/FluxArchitecture/assets/flux-simple-f8-diagram-with-client-action-1300w.png?raw=true)
+![img](https://github.com/mottaquikarim/advanced-react/blob/master/FluxArchitecture/assets/flux-simple-f8-diagram-with-client-action-1300w.png?raw=true)
 
 (^^^ [from fb](https://facebook.github.io/flux/docs/in-depth-overview.html#content))
 

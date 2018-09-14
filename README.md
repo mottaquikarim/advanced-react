@@ -5,6 +5,6 @@ In this unit, we will examine how we can apply design patterns and other techniq
 
 ## Table of Contents
 
-## [Design Patterns](https://github.com/mottaquikarim/c4q-content-staging/tree/master/DesignPatterns)
-## [Flux Architecture](https://github.com/mottaquikarim/c4q-content-staging/tree/master/FluxArchitecture)
-## [Redux](https://github.com/mottaquikarim/c4q-content-staging/tree/master/Redux)
+## [Design Patterns](https://github.com/mottaquikarim/advanced-react/tree/master/DesignPatterns)
+## [Flux Architecture](https://github.com/mottaquikarim/advanced-react/tree/master/FluxArchitecture)
+## [Redux](https://github.com/mottaquikarim/advanced-react/tree/master/Redux)
